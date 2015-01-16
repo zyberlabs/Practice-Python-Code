@@ -1,5 +1,14 @@
 #!/usr/bin/python
 
+=begin
+
+   Battleship!
+   Author: Me!
+   Date: 01/15/15
+   From: Codecademy
+
+=end
+
 from random import randint
 
 board = []
